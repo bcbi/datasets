@@ -1,6 +1,6 @@
 age,blood_pressure,specific_gravity,albumin,sugar,red_blood_cells,pus_cell,pus_cell_clumps,bacteria,blood_glucose_random,blood_urea,serum_creatinine,sodium,potassium,hemoglobin,packed_cell_volume,white_blood_cell_count,red_blood_cell_count,hypertension,diabetes_mellitus,coronary_artery_disease,appetite,pedal_edema,anemia,class
 48,80,1.02,1,0,NA,normal,notpresent,notpresent,121,36,1.2,NA,NA,15.4,44,7800,5.2,yes,yes,no,good,no,no,ckd
-7,50,1.02,4,0,NA,normal,notpresent,notpresent,NA,18,0.8,NA,NA,11.3,38,6000,NA,no,no,no,good,no,no,ckd
+7,50,1.02,4,0,NA,normal,notpresent,notpresent,NA,18.00001,0.8,NA,NA,11.3,38,6000,NA,no,no,no,good,no,no,ckd
 62,80,1.01,2,3,normal,normal,notpresent,notpresent,423,53,1.8,NA,NA,9.6,31,7500,NA,no,yes,no,poor,no,yes,ckd
 48,70,1.005,4,0,normal,abnormal,present,notpresent,117,56,3.8,111,2.5,11.2,32,6700,3.9,yes,no,no,poor,yes,yes,ckd
 51,80,1.01,2,0,normal,normal,notpresent,notpresent,106,26,1.4,NA,NA,11.6,35,7300,4.6,no,no,no,good,no,no,ckd
